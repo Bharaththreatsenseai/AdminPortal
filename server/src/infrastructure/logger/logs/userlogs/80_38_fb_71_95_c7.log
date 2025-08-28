@@ -1,0 +1,219 @@
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-21 18:15:24","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-21 18:15:33","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-22 10:17:01","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-22 10:17:35","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 10:20:39","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 12:48:48","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 12:48:48","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 12:48:48","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 12:48:48","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-22 12:50:03","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-22 14:06:04","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-22 14:09:34","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-22 14:13:59","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-22 14:14:04","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-22 14:14:27","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-22 14:15:10","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-22 14:15:24","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 15:18:33","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 15:20:31","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 15:21:43","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 15:25:59","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-22 15:26:12","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-22 15:26:23","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-22 15:26:35","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 15:26:58","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 15:27:57","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-22 15:28:07","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 15:28:21","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-22 15:28:35","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 15:28:51","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-22 15:56:29","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-22 15:57:12","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-22 15:57:34","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-22 16:02:36","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-22 16:03:03","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-22 16:03:06","tool":"","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-22 16:11:05","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-22 16:12:05","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-22 16:12:38","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-22 16:14:04","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-22 16:13:50","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:18:57","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:18:57","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:18:58","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:18:58","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:18:58","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:18:58","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:18:59","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:18:59","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:19:17","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:19:18","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:19:19","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:19:31","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-22 18:19:35","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-22 18:20:50","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-22 18:22:28","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-22 18:22:44","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-22 18:23:15","tool":"","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-24 09:07:11","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct","threat":"Storage Device","time":"2025-08-24 09:07:22","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-24 09:07:44","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct","threat":"Storage Device","time":"2025-08-24 09:07:49","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Storage Device","time":"2025-08-24 09:08:14","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-24 09:08:16","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct","threat":"Storage Device","time":"2025-08-24 09:10:13","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-24 09:10:15","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 09:11:46","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 09:11:48","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 09:11:49","tool":"ScreenClippingHost.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 09:12:12","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 09:12:16","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-24 09:12:31","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Storage Device","time":"2025-08-24 09:12:35","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-24 09:26:14","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-24 09:27:35","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-24 09:27:41","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-24 09:27:53","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-24 09:52:08","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Storage Device","time":"2025-08-24 09:52:15","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-24 09:53:01","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-24 09:53:02","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Storage Device","time":"2025-08-24 09:53:06","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-24 09:53:16","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct","threat":"Storage Device","time":"2025-08-24 09:53:21","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-24 09:53:33","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-24 09:53:49","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Storage Device","time":"2025-08-24 09:53:54","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Storage Device","time":"2025-08-24 09:54:05","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-24 09:56:09","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-24 09:56:09","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-24 09:56:17","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-24 09:56:20","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-24 09:56:23","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-24 09:56:40","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-24 09:57:20","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-24 09:57:54","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-24 09:57:54","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-24 10:05:50","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct","threat":"Storage Device","time":"2025-08-24 10:05:56","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-24 10:06:54","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Storage Device","time":"2025-08-24 10:07:09","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-24 10:07:31","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-24 10:07:41","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 10:07:58","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 10:08:08","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 10:08:09","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 10:08:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 10:08:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 10:08:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 10:08:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-24 10:08:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-24 10:16:28","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-24 10:21:43","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-24 10:21:51","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-24 10:24:54","tool":"","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 09:39:00","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 09:50:30","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 09:51:35","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 09:51:41","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 09:52:53","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 09:54:34","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 09:58:53","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 09:58:53","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:01:17","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:04:29","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:06:51","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:07:05","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:07:06","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:09:21","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:09:32","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:10:35","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:14:18","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-25 10:14:21","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Print","time":"2025-08-25 10:14:26","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:18:06","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-25 10:18:11","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-25 10:18:17","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-25 10:18:30","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:19:33","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-25 10:19:37","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Download","time":"2025-08-25 10:19:42","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:23:08","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:24:31","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:27:31","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:28:33","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:30:00","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:33:24","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:35:39","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:36:34","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:37:57","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:39:05","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:43:08","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:37:57","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:39:05","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:43:08","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:48:43","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-25 10:48:49","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:50:42","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-25 10:50:42","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-25 10:51:21","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:51:21","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:51:38","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing in not allowed while viewing sensitive data","threat":"Started meeting ","time":"2025-08-25 10:51:38","tool":"","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 10:59:34","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 11:11:04","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 11:12:21","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 11:12:22","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 11:13:15","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 11:13:18","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 11:13:34","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 11:13:36","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 11:14:05","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 11:14:06","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 11:15:33","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 11:15:33","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 11:15:52","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 11:16:08","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 11:16:17","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 11:17:22","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 11:24:37","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark","threat":"Sensitive Data View","time":"2025-08-25 11:24:52","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 11:24:54","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 11:31:06","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 11:33:26","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 11:33:53","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-25 11:39:37","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-25 11:39:57","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-25 11:41:48","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-25 11:42:21","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-25 11:42:48","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 12:00:56","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 12:05:18","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 12:06:15","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 12:09:58","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-08-25 12:11:23","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-25 12:18:42","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-25 12:18:58","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-25 12:19:13","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-25 12:19:29","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-25 12:19:36","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 16:48:08","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 16:48:10","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 16:48:20","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 16:48:21","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 16:48:22","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 16:48:23","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 16:48:23","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 16:48:23","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 16:48:24","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct","threat":"Storage Device","time":"2025-08-25 16:50:08","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Storage Device","time":"2025-08-25 16:50:26","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 18:03:26","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 18:04:08","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 18:04:10","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 18:04:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 18:04:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 18:04:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 18:38:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 18:38:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
