@@ -53,7 +53,7 @@ async function getFullLogsByDate(filePath: string, dateFilter: string) {
       const logData = JSON.parse(jsonPart) as LogEntry;
 
       const logDate = logData.time.slice(0, 10); // "2025-08-22"
-      console.log("logDate:", logDate, "filter:", dateFilter);
+      // console.log("logDate:", logDate, "filter:", dateFilter);
 
       if (logDate !== dateFilter) continue;
 

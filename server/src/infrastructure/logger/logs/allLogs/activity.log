@@ -217,3 +217,67 @@
 [VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 18:04:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
 [VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 18:38:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
 [VERBOSE] {"mac":"80:38:FB:71:95:C7","remedy":"Blocked","threat":"Screen shot","time":"2025-08-25 18:38:11","tool":"SnippingTool.exe","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-26 17:29:01","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-26 17:29:18","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-26 17:30:13","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-26 17:30:30","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-08-26 17:31:36","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-08-26 17:31:56","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentCamService stopped","threat":"Service handler","time":"2025-08-29 15:55:40","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentSnipService stopped","threat":"Service handler","time":"2025-08-29 15:55:41","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentStorageService stopped","threat":"Service handler","time":"2025-08-29 15:55:41","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentInputService stopped","threat":"Service handler","time":"2025-08-29 15:55:42","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentPortableService stopped","threat":"Service handler","time":"2025-08-29 15:55:42","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentAssetService stopped","threat":"Service handler","time":"2025-08-29 15:55:43","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentPrintService stopped","threat":"Service handler","time":"2025-08-29 15:55:43","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentDownloadService stopped","threat":"Service handler","time":"2025-08-29 15:55:44","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentWatermarkService stopped","threat":"Service handler","time":"2025-08-29 15:55:45","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentCommandService stopped","threat":"Service handler","time":"2025-08-29 15:55:45","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentScreenShareService stopped","threat":"Service handler","time":"2025-08-29 15:55:46","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentCamService stopped","threat":"Service handler","time":"2025-08-29 15:55:56","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentSnipService stopped","threat":"Service handler","time":"2025-08-29 15:55:57","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentStorageService started","threat":"Service handler","time":"2025-08-29 15:55:57","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentInputService stopped","threat":"Service handler","time":"2025-08-29 15:55:57","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentPortableService stopped","threat":"Service handler","time":"2025-08-29 15:55:58","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentAssetService stopped","threat":"Service handler","time":"2025-08-29 15:55:58","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentPrintService stopped","threat":"Service handler","time":"2025-08-29 15:55:59","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentDownloadService stopped","threat":"Service handler","time":"2025-08-29 15:55:59","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentWatermarkService stopped","threat":"Service handler","time":"2025-08-29 15:56:00","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentCommandService stopped","threat":"Service handler","time":"2025-08-29 15:56:00","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentScreenShareService stopped","threat":"Service handler","time":"2025-08-29 15:56:01","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentCamService stopped","threat":"Service handler","time":"2025-08-29 15:56:12","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentSnipService stopped","threat":"Service handler","time":"2025-08-29 15:56:12","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentInputService stopped","threat":"Service handler","time":"2025-08-29 15:56:13","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentPortableService stopped","threat":"Service handler","time":"2025-08-29 15:56:13","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentAssetService stopped","threat":"Service handler","time":"2025-08-29 15:56:14","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentPrintService stopped","threat":"Service handler","time":"2025-08-29 15:56:14","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentDownloadService stopped","threat":"Service handler","time":"2025-08-29 15:56:15","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentWatermarkService stopped","threat":"Service handler","time":"2025-08-29 15:56:15","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentCommandService stopped","threat":"Service handler","time":"2025-08-29 15:56:16","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentScreenShareService stopped","threat":"Service handler","time":"2025-08-29 15:56:16","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentCamService stopped","threat":"Service handler","time":"2025-08-29 15:56:27","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentSnipService stopped","threat":"Service handler","time":"2025-08-29 15:56:27","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentInputService stopped","threat":"Service handler","time":"2025-08-29 15:56:28","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentPortableService stopped","threat":"Service handler","time":"2025-08-29 15:56:28","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentAssetService stopped","threat":"Service handler","time":"2025-08-29 15:56:29","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentPrintService stopped","threat":"Service handler","time":"2025-08-29 15:56:29","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentDownloadService stopped","threat":"Service handler","time":"2025-08-29 15:56:30","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentWatermarkService stopped","threat":"Service handler","time":"2025-08-29 15:56:30","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentCommandService stopped","threat":"Service handler","time":"2025-08-29 15:56:31","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentScreenShareService stopped","threat":"Service handler","time":"2025-08-29 15:56:31","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentStorageService started","threat":"Service handler","time":"2025-08-29 16:03:08","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentCamService stopped","threat":"Service handler","time":"2025-08-29 15:56:42","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentPrintService stopped","threat":"Service handler","time":"2025-08-29 15:56:45","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentAssetService stopped","threat":"Service handler","time":"2025-08-29 15:56:44","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentSnipService stopped","threat":"Service handler","time":"2025-08-29 15:56:42","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentPortableService stopped","threat":"Service handler","time":"2025-08-29 15:56:43","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentScreenShareService stopped","threat":"Service handler","time":"2025-08-29 15:56:47","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentDownloadService stopped","threat":"Service handler","time":"2025-08-29 15:56:45","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentWatermarkService stopped","threat":"Service handler","time":"2025-08-29 15:56:46","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentCamService started","threat":"Service handler","time":"2025-08-29 16:07:32","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentCommandService started","threat":"Service handler","time":"2025-08-29 16:07:53","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentDownloadService started","threat":"Service handler","time":"2025-08-29 16:08:23","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentCamService stopped","threat":"Service handler","time":"2025-08-29 16:11:27","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentStorageService stopped","threat":"Service handler","time":"2025-08-29 16:11:27","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentDownloadService stopped","threat":"Service handler","time":"2025-08-29 16:11:28","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentCommandService stopped","threat":"Service handler","time":"2025-08-29 16:11:28","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}

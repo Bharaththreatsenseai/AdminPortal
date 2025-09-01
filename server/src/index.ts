@@ -9,6 +9,7 @@ import logRoutes from "./api/routes/agent/getLog.routes.ts"
 import userRegistrationRoutes from './api/routes/agent/registration.routes.ts'
 import userCountRoutes from './api/routes/frontend/dashboard/epCount.routes.ts'
 import  complaintScoreRoutes from "./api/routes/frontend/dashboard/complaintScore.routes.ts";
+import  organizationScoreRoutes from "./api/routes/frontend/dashboard/organizationScore.routes.ts";
 import  allLogsDownloadRoutes from "./api/routes/download/allLogsDownload.routes.ts";
 import userLogDownloadRoutes from "./api/routes/download/userLogDownload.routes.ts"
 import registrationStatusRoutes from "./api/routes/agent/registrationStatus.routes.ts"
@@ -32,6 +33,7 @@ app.use('/api',groupRoleroutes)
 app.use('/api',saveChangesRoutes)
 app.use('/api',userCountRoutes)
 app.use('/api',complaintScoreRoutes)
+app.use('/api',organizationScoreRoutes)
 app.use('/api',activityGraphRoutes)
 app.use('/api',dateGraphRoutes)
 
