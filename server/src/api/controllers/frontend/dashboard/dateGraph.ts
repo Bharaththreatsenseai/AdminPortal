@@ -78,7 +78,8 @@ async function getFullLogsByDate(filePath: string, dateFilter: string) {
 
 
 export const dateGraph = async (req:Request,res:Response)=>{
-  const data = await getFullLogsByDate('server\\src\\infrastructure\\logger\\logs\\allLogs\\activity.log', '2025-08-22');
+  const date = req.body.date
+  const data = await getFullLogsByDate('server\\src\\infrastructure\\logger\\logs\\allLogs\\activity.log', date);
   res.send(data)
   return
 }
