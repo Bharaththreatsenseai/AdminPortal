@@ -2,5 +2,5 @@ import { showGroups } from "../../../infrastructure/db/dbTableActions/userGroupA
 import {Request,Response} from 'express';
 export const userGroupInfo = async (req:Request , res:Response) =>{
     const groups  = await  showGroups()
-    res.json(groups); 
+    res.json({"groups":groups}); 
 }
