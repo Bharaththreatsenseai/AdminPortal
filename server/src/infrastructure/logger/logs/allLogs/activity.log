@@ -281,3 +281,29 @@
 [INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentStorageService stopped","threat":"Service handler","time":"2025-08-29 16:11:27","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
 [INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentDownloadService stopped","threat":"Service handler","time":"2025-08-29 16:11:28","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
 [INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentCommandService stopped","threat":"Service handler","time":"2025-08-29 16:11:28","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentCamService started","threat":"Service handler","time":"2025-09-02 11:09:18","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentStorageService started","threat":"Service handler","time":"2025-09-02 11:09:18","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentSnipService started","threat":"Service handler","time":"2025-09-02 11:09:18","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"AgentPortableService started","threat":"Service handler","time":"2025-09-02 11:09:18","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentPrintService started","threat":"Service handler","time":"2025-09-02 11:09:18","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentDownloadService started","threat":"Service handler","time":"2025-09-02 11:09:18","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentWatermarkService started","threat":"Service handler","time":"2025-09-02 11:09:18","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentCommandService started","threat":"Service handler","time":"2025-09-02 11:09:18","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentScreenShareService started","threat":"Service handler","time":"2025-09-02 11:09:18","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Granted since password is correct.","threat":"Portable Device","time":"2025-09-02 11:11:50","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-09-02 11:11:57","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-09-02 11:15:40","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-09-02 11:18:57","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-09-02 11:20:29","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-09-02 11:20:43","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-09-02 11:21:10","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-09-02 11:23:15","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentScreenShareService stopped","threat":"Service handler","time":"2025-09-02 11:23:59","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-09-02 11:25:22","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[WARN] {"mac":"80:38:FB:71:95:C7","remedy":"Access Denied since password is incorrect.","threat":"Portable Device","time":"2025-09-02 11:25:47","tool":"Local system","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentWatermarkService stopped","threat":"Service handler","time":"2025-09-02 11:26:31","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentWatermarkService started","threat":"Service handler","time":"2025-09-02 11:26:41","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentScreenShareService started","threat":"Service handler","time":"2025-09-02 11:30:23","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-09-02 11:30:29","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"Applied Watermark to sensitive data and screensharing is not allowed while viewing sensitive data","threat":"Screen Sharing","time":"2025-09-02 11:31:34","tool":"SAP","username":"DESKTOP-M0ST79T"}
+[INFO] {"mac":"80:38:FB:71:95:C7","remedy":"SAPAgentScreenShareService stopped","threat":"Service handler","time":"2025-09-02 11:32:15","tool":"Data gaurd","username":"DESKTOP-M0ST79T"}
